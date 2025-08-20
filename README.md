@@ -1,59 +1,147 @@
-# Hi, I'm Vaibhav Dubey 👋  
-**Backend Engineer | Node.js + Python | Production RAG & Vector DB | Self-Hosted AI**
+# Hi there, I'm Vaibhav Dubey 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Node.js+%7C+Python+%7C+System+Architecture;Building+Scalable+B2B+Platforms;RAG+Systems+%26+AI%2FML+Integration&font=Fira%20Code&center=true&width=1000&height=50&color=36BCF7&vCenter=true&size=22">
+</div>
+---
+
+## About Me
+
+Backend Engineer passionate about building **scalable systems** that drive real business impact. I work with **Node.js, Python, and AI/ML technologies**, with experience in designing efficient database schemas and implementing vector search systems.
+
+🎯 **Current Focus:** Building next-generation B2B platforms with AI/ML integration  
+💼 **Experience:** Architected systems supporting **9-figure INR revenue** and **10K+ active users**  
+🏆 **Achievement:** Employee of the Year for outstanding technical contributions  
+🌱 **Learning:** Advanced system architecture patterns and cutting-edge AI technologies  
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠️ Tech Stack & Tools
 
-• **Backend:** Node.js, Express.js, TypeScript, Python (FastAPI)  
-• **Databases:** PostgreSQL, MongoDB, Redis, Qdrant, Vector Database
-• **AI Integration:** Vector search, semantic search, RAG systems  
-• **Infrastructure:** Docker, AWS (EC2, RDS, S3), BullMQ, self-hosted optimization  
-• **APIs:** RESTful APIs, JWT authentication, WebSocket integration  
+<div align="left">
 
-**Additional Frontend Tools:** Next.js (ISR), React.js, Redux, PrimeReact
+### Backend & Languages
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
+### Databases & Vector Search
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgN1YxN0wxMiAyMkwyIDlWN0wxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+)
 
-## 🔑 Key Projects  
+### AI/ML & Search
+![CLIP](https://img.shields.io/badge/CLIP-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-9C27B0?style=for-the-badge&logo=search&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF9800?style=for-the-badge&logo=huggingface&logoColor=white)
 
-### 1. **Jewelmount – B2B Jewellery Platform**  
-- **Jewelry Image Search:** Self-hosted system handling **200K+ records** using FashionCLIP + Qdrant (**zero vector API costs**).  
-- Webhook-powered storefront syncing for automated updates.  
-- Image enhancement pipeline using **FastAPI**, **rembg**, and **Pillow**.  
-- Integrated eBay listings, Klarna/PayPal payments, OpenAI-powered tools.  
-- Real-time APIs for gold and diamond pricing.  
-*Stack:* Node.js, TypeScript, MongoDB, Next.js, Redux, PrimeReact  
-[🌐 Website Link](#) • [📱 App Link](#)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4CAF50?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
+### Frontend & Integration
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 
-### 2. **Outdoor – Travel Booking System**  
-- Multi-role access: Tour Operators, Transporters, Drivers.  
-- Real-time trip updates via WhatsApp automation.  
-*Stack:* Node.js, PostgreSQL, TypeORM, Meta WhatsApp API  
-[🌐 Website Link](#) • [📱 App Link](#)
-
----
-
-### 3. **Brainpad – Gamified Learning Platform**  
-- Modular sub-apps: Phonics, Grammar, Speed Math.  
-- No-code layout builder for unlimited game experiences.  
-- Integrated analytics, subscriptions, and WhatsApp automations.  
-*Stack:* Node.js, TypeScript, PostgreSQL  
-[🌐 Website Link](#) • [📱 App Link](#)
+</div>
 
 ---
 
-### 4. **SmartLIS – Lab Management SaaS**  
-- Multi-role system: Admin, Lab Tech, Doctor, Patient.  
-- Features: Booking, invoicing, reporting, and secure access.  
-*Stack:* Node.js, PostgreSQL, React.js, PrimeReact  
-[🌐 Website Link](#) • [📱 App Link](#)
+## 🌟 Featured Projects
+
+<div align="left">
+
+### 🏪 Jewelmount B2B Platform • [Website](https://jewelmount.com) • [iOS](https://apps.apple.com/app/jewelmount/id6502341226) • [Android](https://play.google.com/store/apps/details?id=com.jewelmount.app)
+**Revenue Impact: 9-figure INR** • **Node.js, TypeScript, MongoDB, Qdrant, AWS**
+
+**🎯 Key Achievements:**
+- 🚀 Automated **150K+ eBay listings** in 6 months, driving massive revenue growth
+- 🤖 Built self-hosted **AI image search** with 200K+ jewelry records using CLIP + Qdrant
+- ⚡ APIs handling **500+ concurrent requests** with **200ms response time**
+- 🔄 Real-time webhook orchestration enabling **10+ white-label websites**
 
 ---
 
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-space)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&logoColor=white)](https://github.com/vaibhav-space)  
-📧 vaibhavdubey0902gmail.com • 📱 +91 6352154460
+### 🧠 Brainpad Learning Platform • [Phonics](https://play.google.com/store/apps/details?id=com.brainpad.phonics) • [Speed Math](https://play.google.com/store/apps/details?id=com.brainpad.speedmath) • [Preschool](https://play.google.com/store/apps/details?id=com.brainpad.preschool)
+**Migration Success: 10K+ Users** • **Node.js, TypeScript, PostgreSQL**
+
+**🎯 Key Achievements:**
+- 📱 Migrated PHP to Node.js/TypeScript, improving app rating from **3.2 → 4.5**
+- ⚡ Reduced API response time from **2.5s → 200ms**
+- 📈 WhatsApp automation increased conversions by **35%**
+- 🎯 Unified backend managing **3 subscription apps** with cross-selling dashboard
+
+---
+
+### 🤖 [Namely.ai](https://github.com/vaibhav-space/namely.ai) • [Try it here](https://namely-ai.vercel.app/)
+**Local-first AI naming tool for developers** • **Open Source**
+
+**🎯 Key Features:**
+- 🎯 **Context-aware naming** - Generate perfect names for variables, functions, and classes
+- 📚 **Tech stack aware** - Personalized suggestions based on your specific technologies
+- 🔒 **Local-first** - Your code and preferences stay on your machine
+- 🧠 **Learns your style** - Improves suggestions by learning from rejected names
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-space&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+🔥 **Building Scalable B2B Solutions:** Working on systems with AI/ML integration and vector search  
+⚡ **System Architecture:** Designing efficient microservices with optimal database schemas  
+🚀 **Performance Optimization:** Sub-200ms API responses and handling 500+ concurrent requests  
+🤖 **AI Integration:** Implementing transformer embeddings for search applications  
+
+---
+
+## 🏆 Key Achievements
+
+- 🥇 **Employee of the Year Award** - Outstanding technical contributions and team leadership
+- 💰 **Production Impact** - Systems supporting **9-figure INR revenue** and **10K+ users**
+- 🎯 **Search Optimization** - Reduced zero-result searches by **80%** with semantic search
+- ⚡ **Performance Excellence** - **99.5% uptime** during peak usage periods
+- 🚀 **Automation Success** - **150K+ automated eBay listings** in 6 months
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-space)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavdubey0902@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav-space)
+
+</div>
+
+---
+
+<div align="left">
+
+### 💡 Fun Fact
+*"I believe in building systems that don't just work, but work beautifully at scale. Every line of code should contribute to something bigger – whether it's automating 150K listings or making search 80% more accurate!"*
+
+### 🚀 Philosophy
+**"Code with purpose, architect for scale, innovate for impact"**
+
+---
+
+**Thanks for visiting! Let's build something amazing together 🚀**
+
+<img src="https://komarev.com/ghpvc/?username=vaibhav-space&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
+
+</div>
