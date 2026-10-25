@@ -15,6 +15,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vaibhav-space/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:vaibhavdubey0902@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://vaibhav-space.github.io/try-on/"><img src="https://img.shields.io/badge/try--on_AR_Demo-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="try-on Demo" /></a>&nbsp;
+  <a href="https://github.com/vaibhav-space/try-on"><img src="https://img.shields.io/badge/try--on_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="try-on Repo" /></a>&nbsp;
   <a href="https://github.com/vaibhav-space/vindex"><img src="https://img.shields.io/badge/vindex_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="vindex Repo" /></a>&nbsp;
   <a href="https://vaibhav-space.github.io/vindex/"><img src="https://img.shields.io/badge/vindex_Docs-0284C7?style=for-the-badge&logo=readthedocs&logoColor=white" alt="vindex Docs" /></a>
 </p>
@@ -22,6 +24,18 @@
 ---
 
 ## Open source
+
+### [try-on](https://github.com/vaibhav-space/try-on): Zero-CAD 2.5D Real-Time AR Virtual Eyewear Try-On
+
+A sub-millisecond, client-side AR virtual try-on engine solving the $500k 3D CAD modeling bottleneck for eyewear e-commerce. Built with MediaPipe FaceMesh (468 landmarks), PixiJS WebGL matrix projection, and an optical biometrics HUD.
+
+* **Zero-CAD sprite projection**: Renders multi-angle 2.5D frames (0°, 15°, 30°, 45°) with 2D affine perspective warping, eliminating the need for expensive 3D `.glb` assets.
+* **Optical Biometrics HUD**: Live Pupillary Distance (`IPD ±1.2mm`), temple face width estimation, and 3D head pose tracking (Yaw/Pitch/Roll) at locked 60 FPS (11.4ms GPU inference).
+* **Ultra-lean footprint**: 587 KB total JS/Wasm bundle and 28MB heap footprint (95% lighter than Three.js / WebGL 3D meshes).
+
+[Live Web Demo](https://vaibhav-space.github.io/try-on/) · [Repository](https://github.com/vaibhav-space/try-on) · [LinkedIn Technical Breakdown](https://www.linkedin.com/feed/update/urn:li:activity:7419706482763575296/)
+
+---
 
 ### [vindex](https://github.com/vaibhav-space/vindex): local video knowledge compiler
 
@@ -89,6 +103,7 @@ Backend Migration Lead, CodBizz Technologies · [Play Store](https://play.google
 ### AI & Retrieval
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![MediaPipe FaceMesh](https://img.shields.io/badge/MediaPipe_Vision-00C4B4?style=for-the-badge&logo=google&logoColor=white)
 ![SigLIP 2](https://img.shields.io/badge/SigLIP_2-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white)
 ![Sentence-Transformers](https://img.shields.io/badge/Sentence--Transformers-FF9800?style=for-the-badge&logo=huggingface&logoColor=white)
@@ -105,6 +120,7 @@ Backend Migration Lead, CodBizz Technologies · [Play Store](https://play.google
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4CAF50?style=for-the-badge&logo=github-actions&logoColor=white)
 ![FFmpeg & PyAV](https://img.shields.io/badge/FFmpeg_/_PyAV-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
-### Frontend
+### Frontend & Graphics
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![PixiJS v8](https://img.shields.io/badge/PixiJS_v8_(WebGL)-E72264?style=for-the-badge&logo=webgl&logoColor=white)
